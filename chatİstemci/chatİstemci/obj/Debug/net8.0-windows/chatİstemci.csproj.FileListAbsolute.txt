@@ -1,0 +1,16 @@
+C:\Users\baray\Desktop\ntp_lesson\chatİstemci\chatİstemci\bin\Debug\net8.0-windows\chatİstemci.exe
+C:\Users\baray\Desktop\ntp_lesson\chatİstemci\chatİstemci\bin\Debug\net8.0-windows\chatİstemci.deps.json
+C:\Users\baray\Desktop\ntp_lesson\chatİstemci\chatİstemci\bin\Debug\net8.0-windows\chatİstemci.runtimeconfig.json
+C:\Users\baray\Desktop\ntp_lesson\chatİstemci\chatİstemci\bin\Debug\net8.0-windows\chatİstemci.dll
+C:\Users\baray\Desktop\ntp_lesson\chatİstemci\chatİstemci\bin\Debug\net8.0-windows\chatİstemci.pdb
+C:\Users\baray\Desktop\ntp_lesson\chatİstemci\chatİstemci\obj\Debug\net8.0-windows\chatİstemci.Form1.resources
+C:\Users\baray\Desktop\ntp_lesson\chatİstemci\chatİstemci\obj\Debug\net8.0-windows\chatİstemci.csproj.GenerateResource.cache
+C:\Users\baray\Desktop\ntp_lesson\chatİstemci\chatİstemci\obj\Debug\net8.0-windows\chatİstemci.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\baray\Desktop\ntp_lesson\chatİstemci\chatİstemci\obj\Debug\net8.0-windows\chatİstemci.AssemblyInfoInputs.cache
+C:\Users\baray\Desktop\ntp_lesson\chatİstemci\chatİstemci\obj\Debug\net8.0-windows\chatİstemci.AssemblyInfo.cs
+C:\Users\baray\Desktop\ntp_lesson\chatİstemci\chatİstemci\obj\Debug\net8.0-windows\chatİstemci.csproj.CoreCompileInputs.cache
+C:\Users\baray\Desktop\ntp_lesson\chatİstemci\chatİstemci\obj\Debug\net8.0-windows\chatİstemci.dll
+C:\Users\baray\Desktop\ntp_lesson\chatİstemci\chatİstemci\obj\Debug\net8.0-windows\refint\chatİstemci.dll
+C:\Users\baray\Desktop\ntp_lesson\chatİstemci\chatİstemci\obj\Debug\net8.0-windows\chatİstemci.pdb
+C:\Users\baray\Desktop\ntp_lesson\chatİstemci\chatİstemci\obj\Debug\net8.0-windows\chatİstemci.genruntimeconfig.cache
+C:\Users\baray\Desktop\ntp_lesson\chatİstemci\chatİstemci\obj\Debug\net8.0-windows\ref\chatİstemci.dll

@@ -1,0 +1,16 @@
+C:\Users\baray\Desktop\ntp_lesson\chatSunucu\chatSunucu\bin\Debug\net8.0-windows\chatSunucu.exe
+C:\Users\baray\Desktop\ntp_lesson\chatSunucu\chatSunucu\bin\Debug\net8.0-windows\chatSunucu.deps.json
+C:\Users\baray\Desktop\ntp_lesson\chatSunucu\chatSunucu\bin\Debug\net8.0-windows\chatSunucu.runtimeconfig.json
+C:\Users\baray\Desktop\ntp_lesson\chatSunucu\chatSunucu\bin\Debug\net8.0-windows\chatSunucu.dll
+C:\Users\baray\Desktop\ntp_lesson\chatSunucu\chatSunucu\bin\Debug\net8.0-windows\chatSunucu.pdb
+C:\Users\baray\Desktop\ntp_lesson\chatSunucu\chatSunucu\obj\Debug\net8.0-windows\chatSunucu.Form1.resources
+C:\Users\baray\Desktop\ntp_lesson\chatSunucu\chatSunucu\obj\Debug\net8.0-windows\chatSunucu.csproj.GenerateResource.cache
+C:\Users\baray\Desktop\ntp_lesson\chatSunucu\chatSunucu\obj\Debug\net8.0-windows\chatSunucu.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\baray\Desktop\ntp_lesson\chatSunucu\chatSunucu\obj\Debug\net8.0-windows\chatSunucu.AssemblyInfoInputs.cache
+C:\Users\baray\Desktop\ntp_lesson\chatSunucu\chatSunucu\obj\Debug\net8.0-windows\chatSunucu.AssemblyInfo.cs
+C:\Users\baray\Desktop\ntp_lesson\chatSunucu\chatSunucu\obj\Debug\net8.0-windows\chatSunucu.csproj.CoreCompileInputs.cache
+C:\Users\baray\Desktop\ntp_lesson\chatSunucu\chatSunucu\obj\Debug\net8.0-windows\chatSunucu.dll
+C:\Users\baray\Desktop\ntp_lesson\chatSunucu\chatSunucu\obj\Debug\net8.0-windows\refint\chatSunucu.dll
+C:\Users\baray\Desktop\ntp_lesson\chatSunucu\chatSunucu\obj\Debug\net8.0-windows\chatSunucu.pdb
+C:\Users\baray\Desktop\ntp_lesson\chatSunucu\chatSunucu\obj\Debug\net8.0-windows\chatSunucu.genruntimeconfig.cache
+C:\Users\baray\Desktop\ntp_lesson\chatSunucu\chatSunucu\obj\Debug\net8.0-windows\ref\chatSunucu.dll
